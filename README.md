@@ -26,7 +26,7 @@ Interactive Swagger documentation is available at:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/translation-api.git
+   git clone https://github.com/eli02922/translations-api
    cd translation-api
 Install dependencies:
 
